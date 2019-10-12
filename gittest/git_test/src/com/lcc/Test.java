@@ -7,5 +7,11 @@ public class Test {
         System.out.println("hello world!!!");
         System.out.println("hello world!!!");
         System.out.println("hello world!!!");
+        test();
+    }
+    public static  void test(){
+        int i=0 ;
+        i += 10;
+
     }
 }
